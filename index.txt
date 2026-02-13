@@ -1,3 +1,2 @@
-This is updated main branch.
+This is updated main branch and modified in feature2.
 
-Added feature1 line.
